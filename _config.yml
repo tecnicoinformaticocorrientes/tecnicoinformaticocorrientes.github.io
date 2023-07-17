@@ -47,8 +47,7 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Técnico Informático 
-  Corrientes</h1>
+  section1: <h1>Técnico Informático</h1>
   section2: <h2>Sitio en donde puedes encontrar soliones informáticas en todos los aspectos y niveles @tecnicoinformaticocorrientes la cuenta está en todas las redes sociales</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/tecnicoinformaticocorrientes" title="View on GitHub"></a></div>
 blog:
