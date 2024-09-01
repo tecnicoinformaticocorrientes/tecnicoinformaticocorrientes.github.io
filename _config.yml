@@ -23,13 +23,13 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Técnico Informático
-description: "Sitio en donde puedes encontrar soluciones informáticas en todos los aspectos y niveles @tecnicoinformaticocorrientes está en todas las redes sociales"
+title: LA CONSTRUCTORA del Oeste 
+description: "AQUÍ ROBERTO ANDRADA QUIERE HACER PRESENTE LA INVITACIÓN A QUE UD INVIERTA EN LA CONSTRUCCIÓN, PARA ESTO LLAME QUE SE LO ASESORA 11 6227-2399"
 keywords: 'jekyll,theme,gem-based,blog'
 author: @tecnicoinformaticocorrientes
   name: Daniel Britez
   job_title: Tecnico Informatico y analista junior en Ciberseguridad
-  location: Corrientes, Argentina
+  location: Ciudad Autónoma de Buenos Aires
   email: tecnicoinformaticocorrientes@gmail.com
   social_links:
     - name: facebook
@@ -47,13 +47,13 @@ author: @tecnicoinformaticocorrientes
     - name: vk
       url:
 home:
-  section1: <h1>Técnico Informático</h1>
-  section2: <h2>Sitio en donde puedes encontrar soliones informáticas en todos los aspectos y niveles @tecnicoinformaticocorrientes la cuenta está en todas las redes sociales</h2>
+  section1: <h1>LA CONSTRUCTORA del Oeste</h1>
+  section2: <h2>AQUÍ ROBERTO ANDRADA QUIERE HACER PRESENTE LA INVITACIÓN A QUE UD INVIERTA EN LA CONSTRUCCIÓN, PARA ESTO LLAME QUE SE LO ASESORA 11 6227-2399</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/tecnicoinformaticocorrientes" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
-    footer_content : Sitio en donde puedes encontrar soluciones informáticas en todos los aspectos y niveles @tecnicoinformaticocorrientes la cuenta está en todas las redes sociales <a href="http://jekyllrb.com/"> Jekyll </a> theme.
+    footer_content : AQUÍ ROBERTO ANDRADA QUIERE HACER PRESENTE LA INVITACIÓN A QUE UD INVIERTA EN LA CONSTRUCCIÓN, PARA ESTO LLAME QUE SE LO ASESORA 11 6227-2399 <a href="http://jekyllrb.com/"> Jekyll </a> theme.
 
 disqus:
   shortname: # e.g. yizeng
